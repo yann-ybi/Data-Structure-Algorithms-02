@@ -1,4 +1,4 @@
-# (University of Rhode Island CSC212: Data structure and algorithms)
+# University of Rhode Island | Data structure and algorithms
 # Homework Assignment 2 Program 
 
 The goal of this assignment is to review the use of *classes* and *dynamic arrays* in `C++`, both in the context of a *maze generation* application.  The assignment is worth a total of 120 points. If you have any questions or need any help, please visit us during office hours and/or post questions on EdStem.
